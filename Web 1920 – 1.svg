@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1072" viewBox="0 0 1920 1072">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1072"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1072" fill="#fff"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(434 19)" fill="#0800ff" stroke="#707070" stroke-width="1">
+      <rect width="361" height="361" rx="58" stroke="none"/>
+      <rect x="0.5" y="0.5" width="360" height="360" rx="57.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(1126 19)" fill="red" stroke="#707070" stroke-width="1">
+      <rect width="361" height="361" rx="61" stroke="none"/>
+      <rect x="0.5" y="0.5" width="360" height="360" rx="60.5" fill="none"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(877 717)" fill="#f3bebe" stroke="#707070" stroke-width="1">
+      <rect width="167" height="85" rx="42.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="166" height="84" rx="42" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(842 832)" fill="#fdeeee" stroke="#707070" stroke-width="1">
+      <rect width="237" height="85" rx="42.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="236" height="84" rx="42" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(842 603)" fill="#df0" stroke="#707070" stroke-width="1">
+      <rect width="237" height="86" rx="43" stroke="none"/>
+      <rect x="0.5" y="0.5" width="236" height="85" rx="42.5" fill="none"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(877 71)" fill="#e92424" stroke="#707070" stroke-width="1">
+      <rect width="167" height="86" rx="43" stroke="none"/>
+      <rect x="0.5" y="0.5" width="166" height="85" rx="42.5" fill="none"/>
+    </g>
+    <text id="New_Game" data-name="New Game" transform="translate(892 125)" fill="#fff" font-size="26" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="0">New Game</tspan></text>
+    <text id="Roll_the_Dice" data-name="Roll the Dice" transform="translate(867 656)" font-size="26" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="0">Roll the Dice</tspan></text>
+    <text id="Hold_" data-name="Hold!" transform="translate(919 770)" font-size="26" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="0">Hold!</tspan></text>
+    <text id="Final_Score" data-name="Final Score" transform="translate(879 856)" font-size="37" font-family="SitkaDisplay, Sitka Display" opacity="0.5" style="mix-blend-mode: darken;isolation: isolate"><tspan x="0" y="28">Final Score</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M111.971,72.191l54.875-19.848h54.875s70.053,10.508,75.891,9.34,52.54,8.173,54.875,10.508,8.173,35.027,8.173,35.027l-35.027,23.351-65.383,29.189L232.23,172.6,147,143.412,92.123,123.563Z" transform="translate(384.327 -11.961)" fill="#a63a3a"/>
+    <path id="Path_2" data-name="Path 2" d="M1380.571,47.537h70.157s53.708,3.5,71.221,0,77.059-11.676,79.394,0-3.5,42.032,0,49.037-3.5,38.529-14.011,38.529-24.519-4.67-19.848,0,26.854,30.356,26.854,30.356-80.561-10.508-87.567-10.508-52.54,8.173-56.043,10.508-17.513,1.168-31.524,0-59.545-21.016-72.388-21.016-26.854,1.168-31.524,0,0-56.043,0-56.043V61.547h52.54Z" transform="translate(-155.821 -7.155)" fill="#a63a3a"/>
+    <text id="Player_1" data-name="Player 1" transform="translate(533 53)" font-size="37" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="38">Player 1</tspan></text>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(450 186)" fill="#f8dbdb" stroke="#707070" stroke-width="1">
+      <rect width="307" height="115" rx="57.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="306" height="114" rx="57" fill="none"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(1153 186)" fill="#f8dbdb" stroke="#707070" stroke-width="1">
+      <rect width="307" height="115" rx="57.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="306" height="114" rx="57" fill="none"/>
+    </g>
+    <text id="Current_Score" data-name="Current Score" transform="translate(466 200)" font-size="37" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="38">Current Score</tspan></text>
+    <text id="Current_Score-2" data-name="Current Score" transform="translate(1168 200)" font-size="37" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="38">Current Score</tspan></text>
+    <text id="_0" data-name="0" transform="translate(594 109)" font-size="37" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="38">0</tspan></text>
+    <text id="_0-2" data-name="0" transform="translate(594 256)" font-size="37" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="38">0</tspan></text>
+    <text id="_0-3" data-name="0" transform="translate(1296 256)" font-size="37" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="38">0</tspan></text>
+    <text id="_0-4" data-name="0" transform="translate(1296 109)" font-size="37" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="38">0</tspan></text>
+    <text id="Player_2" data-name="Player 2" transform="translate(1225 53)" font-size="37" font-family="ShowcardGothic-Reg, Showcard Gothic"><tspan x="0" y="38">Player 2</tspan></text>
+  </g>
+</svg>
